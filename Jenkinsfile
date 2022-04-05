@@ -19,7 +19,7 @@ maven 'maven'
 
 
 environment {
-ORG_NAME = "IPU"
+ORG_NAME = "ipu"
 APP_NAME = "eureka-server"
 APP_VERSION = "1.0-SNAPSHOT"
 APP_CONTEXT_ROOT = "/"
